@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "602fe5305b06529406be7b41"
+  },
+  "Name": "McDonald's",
+  "location": "Seaview",
+  "latitude": 24.798807,
+  "longitude": 67.034484
+},{
+  "_id": {
+    "$oid": "602fe5305b06529406be7b42"
+  },
+  "Name": "KFC",
+  "location": "SMCHS",
+  "latitude": 24.862935,
+  "longitude": 67.055156
+},{
+  "_id": {
+    "$oid": "602fe5305b06529406be7b43"
+  },
+  "Name": "Gloria Jean's Coffees",
+  "location": "SMCHS",
+  "latitude": 24.86424,
+  "longitude": 67.054879
+},{
+  "_id": {
+    "$oid": "602fe5305b06529406be7b44"
+  },
+  "Name": "Xander's",
+  "location": "Clifton",
+  "latitude": 24.804054,
+  "longitude": 67.032592
+},{
+  "_id": {
+    "$oid": "602fe5305b06529406be7b45"
+  },
+  "Name": "Espresso",
+  "location": "Tipu Sultan",
+  "latitude": 24.866537,
+  "longitude": 67.07739
+},{
+  "_id": {
+    "$oid": "602fe5305b06529406be7b46"
+  },
+  "Name": "Cool 90's",
+  "location": "North Nazimabad",
+  "latitude": 24.941136,
+  "longitude": 67.050306
+},{
+  "_id": {
+    "$oid": "602fe5305b06529406be7b47"
+  },
+  "Name": "Cafe Aylanto",
+  "location": "Clifton",
+  "latitude": 24.804384,
+  "longitude": 67.031224
+},{
+  "_id": {
+    "$oid": "602fe5305b06529406be7b48"
+  },
+  "Name": "Student Biryani",
+  "location": "Sharfabad",
+  "latitude": 24.881707,
+  "longitude": 67.066014
+}]
