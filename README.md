@@ -11,5 +11,5 @@ Steps to perform:
 4. Retrieve all restaurants, calculate their distance from your location
 5. Sort them by nearest distance
 6. And then display the restaurants in sorted order, based on nearest to your own location  
-Output:  
+**Output:**  
 ![](Location-Assignment/API-Output.PNG)
