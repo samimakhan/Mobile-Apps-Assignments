@@ -3,7 +3,7 @@ Contains all my assignments for the class Application Development for Mobile Dev
 
 ## Assignment-1: Location-based query for Restaurants  
 **Required:**  
-Display some restaurants closest to your own location.  
+Create an API to display some restaurants closest to your own location.  
 Steps to perform:
 1. Insert some data for restaurants into your database
 2. Each restaurant data will have restaurant name, their latitude and longitude values
